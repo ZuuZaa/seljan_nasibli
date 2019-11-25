@@ -1835,3 +1835,20 @@ body[data-aos-duration='50'] [data-aos] {
 #video-section{
     margin-top: 10%;
 }
+
+.onneks-white {
+    color: #FFF;
+}
+.onneks-white:hover {
+    color: #FFF;
+}
+
+.onneks-black {
+    color: #777;
+}
+.onneks-black:hover {
+    color: #777;
+}
+.yscott-about-photos {
+    background-color: #fff !important;
+}
